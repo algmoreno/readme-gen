@@ -6,7 +6,7 @@ Github: https://github.com/algmoreno/readme-gen
 
 
   # Description
-  This is readme generator creates a Readme file for your project. The prompt asks the user a series of questions about the project such as the project's main function, the steps for installation and usage and how to contribute to the project yourself. The prompt will also ask you for your Github username and email in case users of the project would like to contact the creator. 
+  This readme generator creates a Readme file for your project. The prompt asks the user a series of questions about the project such as the project's main function, the steps for installation and usage and how to contribute to the project yourself. The prompt will also ask you for your Github username and email in case users of the project would like to contact the creator. 
 
   # Installation
   The installation process is simple. Users will need to install the fs and inquirer packages from npm
