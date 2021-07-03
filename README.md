@@ -1,30 +1,26 @@
-# alan [![License](https://img.shields.io/badge/License-BSD%201.0-lightblue.svg)]
+# Readme Generator [![License](https://img.shields.io/badge/License-MIT%201.0-lightblue.svg)]
+
+<iframe src="https://drive.google.com/file/d/1VipmXaTjwWZQwGYNd9wb1ZlLDwVgsAAe/preview" width="640" height="480"></iframe>
+
+Github: https://github.com/algmoreno/readme-gen 
+
+
   # Description
-  Lorem ipsum dolor sit amet, ius et populo euismod. Mel ad facete fierent definitionem. No feugiat alienum democritum ius, no mel ullamcorper concludaturque. Ut errem impetus adipiscing per, ex vis efficiantur voluptatibus, novum tibique mediocrem usu ad. Ne vel expetenda elaboraret, vis eripuit moderatius ne. Eu libris vivendum pro, possim equidem meliore his ei, et omittam democritum adipiscing mea.
+  This is readme generator creates a Readme file for your project. The prompt asks the user a series of questions about the project such as the project's main function, the steps for installation and usage and how to contribute to the project yourself. The prompt will also ask you for your Github username and email in case users of the project would like to contact the creator. 
 
   # Installation
-  Laoreet argumentum ius et. Duo id erant denique iracundia, id has idque iusto, id euismod pertinax eam. Habeo verear latine ei has. Sit noster verterem at, vis ei soleat salutatus, ea mei volumus evertitur.
+  The installation process is simple. Users will need to install the fs and inquirer packages from npm
 
   # Usage
-  Lorem ipsum dolor sit amet, ius et populo euismod. Mel ad facete fierent definitionem. No feugiat alienum democritum ius, no mel ullamcorper concludaturque. Ut errem impetus adipiscing per, ex vis efficiantur voluptatibus, novum tibique mediocrem usu ad. Ne vel expetenda elaboraret, vis eripuit moderatius ne. Eu libris vivendum pro, possim equidem meliore his ei, et omittam democritum adipiscing mea.
+  Create a project and answer the prompt questions!
 
   # Contributing
-  Lorem ipsum dolor sit amet, ius et populo euismod. Mel ad facete fierent definitionem. No feugiat alienum democritum ius, no mel ullamcorper concludaturque. Ut errem impetus adipiscing per, ex vis efficiantur voluptatibus, novum tibique mediocrem usu ad. Ne vel expetenda elaboraret, vis eripuit moderatius ne. Eu libris vivendum pro, possim equidem meliore his ei, et omittam democritum adipiscing mea.
+  This is open source material, contribute how you would like
 
   # Test
-  Laoreet argumentum ius et. Duo id erant denique iracundia, id has idque iusto, id euismod pertinax eam. Habeo verear latine ei has. Sit noster verterem at, vis ei soleat salutatus, ea mei volumus evertitur.
+  None
 
   # Questions
-  Email: algmoreno00@gmail.com
-  Github Username: alan
+  Email: alg.moreno00@gmail.com
+  Github Username: algmoreno
   
-  # Table of Contents 
-  Description  return
-  Installation  return 
-  Usage  return
-  Contribution  return
-  Test  return
-  Questions  return
-
-# Links 
-Github: 
