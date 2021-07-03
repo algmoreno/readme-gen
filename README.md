@@ -1,6 +1,6 @@
 # Readme Generator [![License](https://img.shields.io/badge/License-MIT%201.0-lightblue.svg)]
 
-<iframe src="https://drive.google.com/file/d/1VipmXaTjwWZQwGYNd9wb1ZlLDwVgsAAe/preview" width="640" height="480"></iframe>
+Video: https://drive.google.com/file/d/1VipmXaTjwWZQwGYNd9wb1ZlLDwVgsAAe/preview
 
 Github: https://github.com/algmoreno/readme-gen 
 
